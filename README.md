@@ -1,3 +1,6 @@
+# What the program does!
+https://youtu.be/NpvXkYCnJVs
+
 # How to use!
 Simply install the FastLED library, define the matrix height and width along with the other defines at the top of the file and it should be ready for upload to the Arduino.    
 
